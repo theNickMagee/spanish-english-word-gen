@@ -27,3 +27,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### TODO
+
+- load next question first
+- correct/incorrect dynamic
